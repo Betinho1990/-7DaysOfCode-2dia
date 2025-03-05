@@ -1,12 +1,12 @@
 # 📌 Formulário de Aprendizado de Programação
 
-![Banner](https://via.placeholder.com/1000x300.png?text=Formul%C3%A1rio+de+Aprendizado+de+Programa%C3%A7%C3%A3o)
+![Banner](https://pixabay.com/pt/photos/bin%C3%A1rio-c%C3%B3digo-bin%C3%A1rio-2910663/)
 
 ## 🧑 Sobre o Autor
 
 👋 Olá! Meu nome é Roberto Gonçalves Conceição Filho e sou um entusiasta da programação. Você pode me encontrar no GitHub clicando [aqui](https://github.com/Betinho1990)!
 
-<img src="https://via.placeholder.com/150" width="150" alt="Foto do Autor">
+<img src = "C:\Users\user\Pictures\FOTO EU.jpg">
 
 ## 🚀 Descrição do Projeto
 
