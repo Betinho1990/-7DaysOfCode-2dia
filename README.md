@@ -1,7 +1,5 @@
 # 📌 Formulário de Aprendizado de Programação
 
-![Banner]([https://pixabay.com/pt/photos/bin%C3%A1rio-c%C3%B3digo-bin%C3%A1rio-2910663/](https://pixabay.com/pt/photos/bin%C3%A1rio-c%C3%B3digo-bin%C3%A1rio-2910663/))
-
 ## 🧑 Sobre o Autor
 
 👋 Olá! Meu nome é Roberto Gonçalves Conceição Filho e sou um entusiasta da programação. Você pode me encontrar no GitHub clicando [aqui](https://github.com/Betinho1990)!
