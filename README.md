@@ -6,7 +6,7 @@
 
 👋 Olá! Meu nome é Roberto Gonçalves Conceição Filho e sou um entusiasta da programação. Você pode me encontrar no GitHub clicando [aqui](https://github.com/Betinho1990)!
 
-<img src = "C:\Users\user\Pictures\FOTO EU.jpg">
+<img src = "https://avatars.githubusercontent.com/u/194714356?v=4" width="150" height="150">
 
 ## 🚀 Descrição do Projeto
 
